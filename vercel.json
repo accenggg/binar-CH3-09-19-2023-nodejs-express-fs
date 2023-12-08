@@ -9,11 +9,11 @@
     "routes": [
         {
             "src": "/api/v1/tours",
-            "dest": "/app.js"
+            "dest": "/server.js"
         },
         {
             "src": "/api/v1/users",
-            "dest": "/app.js"
+            "dest": "/server.js"
         }
     ]
 }
